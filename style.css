@@ -3,13 +3,18 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-image: url("./images/madlibs.png");
-    
+    background-image: url("./images/madlibs.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 
 
 #container2, #container4 {
-    color: rgb(0, 0, 0);
+    color: black;
+    background-color: rgb(210, 241, 242, 0.5);
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid black;
 }
 
 #container3 {
@@ -30,14 +35,12 @@ input {
 
 #input {
     width: 95%;
-    font-size: large;
+    font-size: 1.25rem;
     font-weight: 500;
     background-color: rgb(210, 241, 242, 0);
     line-height: 1.5em;
     flex-direction: wrap;
-    /* display: inline; */
     padding: 20px 0px 20px 0px;
-    
 }
 
 
@@ -54,12 +57,11 @@ input {
 
 #output {
     width: 95%;
-    font-size: large;
+    font-size: 2rem;
     font-weight: 500;
     background-color: rgba(246, 248, 239, 0);
     line-height: 1.5em;
     flex-direction: wrap;
-    /* display: inline; */
     padding: 20px 0px 20px 0px;
     
 }
@@ -67,8 +69,3 @@ input {
 input:focus {
       background: #ffc787;
 }
-
-
-/**
- * Your CSS goes here.
- */

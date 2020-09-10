@@ -1,5 +1,5 @@
 # Mad Libs Game
-This app built using JavaScript to play the "Mad Libs" game.
+This app provides a template of the "Mad Libs" game to generate your own story.
 
 # Preview:
 <img src="preview.gif" alt="preview" width="100%"/><hr/>

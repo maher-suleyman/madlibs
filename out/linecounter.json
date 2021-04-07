@@ -1,0 +1,87 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\maher\\Desktop\\Front-end projects\\madlibs",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2020-10-17 01:21:16",
+            "filesum": 7,
+            "codesum": 228,
+            "commentsum": 50,
+            "blanksum": 50,
+            "statistics": {
+                ".css": {
+                    "code": 74,
+                    "comment": 0,
+                    "blank": 12
+                },
+                ".txt": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 17,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".js": {
+                    "code": 134,
+                    "comment": 50,
+                    "blank": 38
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 5,
+                    "filename": "do-not-touch.js"
+                },
+                {
+                    "filename": "images\\madlibs.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 37,
+                    "code": 130,
+                    "comment": 45,
+                    "filename": "madlibs.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "story.txt"
+                },
+                {
+                    "blank": 12,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "style.css"
+                }
+            ]
+        }
+    ]
+}
